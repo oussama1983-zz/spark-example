@@ -1,0 +1,1 @@
+spark-submit --master yarn --deploy-mode cluster --class Accidents spark-example-1.0-SNAPSHOT.jar
